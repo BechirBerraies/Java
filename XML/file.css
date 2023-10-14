@@ -1,0 +1,23 @@
+person {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #999;
+}
+
+/* Apply styles to specific elements within <person> */
+firstName {
+    color: blue;
+}
+
+lastName {
+    color: green;
+}
+
+age {
+    color: red;
+}
+
+email {
+    text-decoration: underline;
+}
